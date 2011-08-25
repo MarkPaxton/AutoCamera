@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoCamera Implement</string>
+    <string name="exit_button">Exit</string>
+    <string name="autocamera_name">AutoCamera app</string>
+    <string name="stop_launched_services">Stop services</string>
+</resources>
